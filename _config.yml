@@ -69,9 +69,9 @@ author:
 social-network-links:
   rss: true
   email: "gunwook0307@yonsei.ac.kr"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  #facebook: deanattali
+  github: https://github.com/YooGunWook
+  #twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
